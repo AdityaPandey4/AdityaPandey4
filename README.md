@@ -89,6 +89,15 @@ Here's a snapshot of my technical skills:
 
 ## 💼 Work Experience
 
+### **Intellectus AI Labs**
+*AI Developer Intern* | March 2025 - May 2025
+*   Designed and implemented multi-agent workflows using CrewAI for task planning, coordination, and execution.
+*   Built autonomous AI agents with memory, communication, and asynchronous capabilities.
+*   Fine-tuned LLMs on structured and unstructured datasets for domain-specific tasks.
+*   Applied prompt engineering techniques to minimize hallucinations and ensure stable outputs.
+*   Evaluated model performance and prepared high-quality datasets through data preprocessing.
+*   📜 [View Certificate](./certificates/Intellectus_AI_Certificate.pdf) | 📜 [Letter of Recommendation](./certificates/Intellectus_AI_LOR.pdf)
+
 ### **Wezenite Technologies Private Limited**
 *Deep Learning Intern* | Dec 2023 - Mar 2024
 *   Led a team of interns in developing and deploying Large Language Models (LLMs) applications.
@@ -106,9 +115,6 @@ Here's a snapshot of my technical skills:
 *   Applied prompt engineering techniques to enhance the accuracy of generated images.
 *   Gained hands-on experience managing large-scale models on Hugging Face and version control using Git/GitHub.
 *   📜 [View Certificate](./certificates/CERTIFICATE(SNIVE).pdf) | 📜 [Letter of Recommendation](./certificates/LOR(SNIVE)..pdf)
-    *   *(Upload these files too)*
-
-
 
 ---
 
@@ -146,7 +152,7 @@ Here's a snapshot of my technical skills:
 <!-- Optional: Display your recent GitHub activity -->
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/AdityaPandey4">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaPandey4&theme=radical" alt="Aditya's GitHub Profile Summary"/>
   </a>
 </p>
