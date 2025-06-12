@@ -96,8 +96,8 @@ Here's a snapshot of my technical skills:
 *   Implemented Retrieval-Augmented Generation (RAG) architecture to enhance contextual relevance.
 *   Applied prompt engineering techniques to minimize hallucinations and ensure stable outputs.
 *   Built a Streamlit-based frontend to enable seamless interaction with the deployed models.
-*   📜 [View Certificate](./certificates/wezenite_certificate.pdf) | 📜 [Letter of Recommendation](./certificates/wezenite_lor.pdf)
-    *   *(You'll need to upload these files to a 'certificates' folder in your repo)*
+*   📜 [View Certificate](./certificates/Internship-Certificate-AdityaPandey.pdf) | 📜 [Letter of Recommendation](./certificates/LetterOfRecommendation-Aditya-Wezenite.pdf)
+
 
 ### **Snive**
 *Machine Learning Intern* | May 2023 - Aug 2023
@@ -105,10 +105,10 @@ Here's a snapshot of my technical skills:
 *   Collected, cleaned, and prepared datasets to improve model training efficiency and output quality.
 *   Applied prompt engineering techniques to enhance the accuracy of generated images.
 *   Gained hands-on experience managing large-scale models on Hugging Face and version control using Git/GitHub.
-*   📜 [View Certificate](./certificates/snive_certificate.pdf) | 📜 [Letter of Recommendation](./certificates/snive_lor.pdf)
+*   📜 [View Certificate](./certificates/CERTIFICATE(SNIVE).pdf) | 📜 [Letter of Recommendation](./certificates/LOR(SNIVE)..pdf)
     *   *(Upload these files too)*
 
-*(Add your third GenAI internship here in a similar format if you have the details)*
+
 
 ---
 
@@ -116,14 +116,16 @@ Here's a snapshot of my technical skills:
 
 *   **AI Agents - Multi AI Agent System Course** - Issued by: DeepLearning.AI and CrewAi
     *   🔗 [View Certificate](./certificates/Aditya_Pandey_badge_CrewAI.pdf)
+*   **AI Agents Course** - Issued by: HuggingFace
+    *   🔗 [View Certificate](./certificates/AI_agents_certificate.pdf)
+*   **MCP - MCP fundamentals** - Issued by: HuggingFace
+    *   🔗 [View Certificate](./certificates/build-real-world-ai-applications-with-gemini-and-im.png)
 *   **React - Advance React course** - Issued by: Meta
     *   🔗 [View Certificate](./certificates/React_Certificate.pdf)
 *   **Django - Django WebFramework** - Issued by: Meta
-    *   🔗 [View Certificate](./certificates/Coursera ARIDGTKTZDUF.pdf)
-*   **AI Agents Course** - Issued by: HuggingFace
-    *   🔗 [View Certificate](./certificates/AI_agents_certificate.pdf)
+    *   🔗 [View Certificate](./certificates/Coursera_Django.pdf)
 *   **Getting Started with Apache Kafka and Confluent Platform** - Issued by: Google Cloud / Confluent
-    *   🔗 [View Certificate](./certificates/)
+    *   🔗 [View Certificate](https://www.cloudskillsboost.google/public_profiles/00d4a90d-f401-48aa-b6be-09af47802498/badges/14815138)
 *   **Build Real World AI Applications with Gemini and Imagen** - Issued by: Google Cloud
     *   🔗 [View Certificate](./certificates/build-real-world-ai-applications-with-gemini-and-im.png)
 
