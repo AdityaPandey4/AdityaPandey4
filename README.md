@@ -119,7 +119,7 @@ Here's a snapshot of my technical skills:
 *   **AI Agents Course** - Issued by: HuggingFace
     *   🔗 [View Certificate](./certificates/AI_agents_certificate.pdf)
 *   **MCP - MCP fundamentals** - Issued by: HuggingFace
-    *   🔗 [View Certificate](./certificates/build-real-world-ai-applications-with-gemini-and-im.png)
+    *   🔗 [View Certificate](./certificates/Fundamentals_of_MCP.pdf)
 *   **React - Advance React course** - Issued by: Meta
     *   🔗 [View Certificate](./certificates/React_Certificate.pdf)
 *   **Django - Django WebFramework** - Issued by: Meta
