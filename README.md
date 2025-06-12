@@ -10,7 +10,7 @@ Example: ![My Banner](./assets/banner.gif) if you put it in an 'assets' folder.
 -->
 <p align="center">
   <a href="https://github.com/AdityaPandey4"> <!-- Replace YOUR_GITHUB_USERNAME -->
-    <img src="YOUR_BANNER_IMAGE_URL.jpg" alt="Aditya Pandey - AI Developer Banner" width="800"/>
+    <img src="./assest/github-header-image (3).png" alt="Aditya Pandey - AI Developer Banner" width="800"/>
   </a>
 </p>
 
@@ -57,23 +57,22 @@ Here's a snapshot of my technical skills:
 
 **AI & Deep Learning:**
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Large Language Models (LLMs)-4285F4?style=for-the-badge&logoColor=white" alt="LLMs"/>
-  <img src="https://img.shields.io/badge/Generative AI-00C9B3?style=for-the-badge&logoColor=white" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/RAG- Retrieval Augmented Generation-purple?style=for-the-badge&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/AI Agentic Workflow-9F7AEA?style=for-the-badge&logoColor=white" alt="AI Agentic Workflow"/>
   <img src="https://img.shields.io/badge/AI Agents-FF69B4?style=for-the-badge&logoColor=white" alt="AI Agents"/>
-  <img src="https://img.shields.io/badge/Stable Diffusion-blueviolet?style=for-the-badge&logoColor=white" alt="Stable Diffusion"/>
-  <img src="https://img.shields.io/badge/GANs-orange?style=for-the-badge&logoColor=white" alt="GANs"/>
-  <img src="https://img.shields.io/badge/LSTM-green?style=for-the-badge&logoColor=white" alt="LSTM"/>
-  <img src="https://img.shields.io/badge/Prompt Engineering-lightgrey?style=for-the-badge&logoColor=black" alt="Prompt Engineering"/>
-  <img src="https://img.shields.io/badge/Hugging Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/Large Language Models (LLMs)-4285F4?style=for-the-badge&logoColor=white" alt="Large Language Models (LLMs)"/>
+  <img src="https://img.shields.io/badge/RAG (Retrieval Augmented Generation)-8A2BE2?style=for-the-badge&logoColor=white" alt="Retrieval Augmented Generation (RAG)"/>
+  <img src="https://img.shields.io/badge/LSTM-4CAF50?style=for-the-badge&logoColor=white" alt="LSTM"/>
+  <img src="https://img.shields.io/badge/Generative AI-00C9B3?style=for-the-badge&logoColor=white" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/Stable Diffusion-6A0DAD?style=for-the-badge&logoColor=white" alt="Stable Diffusion"/>
+  <img src="https://img.shields.io/badge/GANs (Generative Adversarial Networks)-FF8C00?style=for-the-badge&logoColor=white" alt="Generative Adversarial Networks (GANs)"/>
+  <img src="https://img.shields.io/badge/Prompt Engineering-778899?style=for-the-badge&logoColor=white" alt="Prompt Engineering"/>
 </p>
+
+
 
 **Software Development & Tools:**
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/Microservices-007396?style=for-the-badge&logoColor=white" alt="Microservices"/>
@@ -83,8 +82,7 @@ Here's a snapshot of my technical skills:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+  
 </p>
 
 ---
