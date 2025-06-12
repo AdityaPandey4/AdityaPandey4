@@ -115,17 +115,17 @@ Here's a snapshot of my technical skills:
 ## 📜 Certifications & Courses
 
 *   **AI Agents - Multi AI Agent System Course** - Issued by: DeepLearning.AI and CrewAi
-    *   🔗 [View Certificate](./certificates/multi_ai_agent_system_course.pdf)
+    *   🔗 [View Certificate](./certificates/Aditya_Pandey_badge_CrewAI.pdf)
 *   **React - Advance React course** - Issued by: Meta
-    *   🔗 [View Certificate](./certificates/meta_react_certificate.pdf)
-*   **AI Agents Fundamentals** - Issued by: HuggingFace
-    *   🔗 [View Certificate](./certificates/hf_ai_agents_fundamentals.pdf)
+    *   🔗 [View Certificate](./certificates/React_Certificate.pdf)
+*   **Django - Django WebFramework** - Issued by: Meta
+    *   🔗 [View Certificate](./certificates/Coursera ARIDGTKTZDUF.pdf)
 *   **AI Agents Course** - Issued by: HuggingFace
-    *   🔗 [View Certificate](./certificates/hf_ai_agents_course.pdf)
+    *   🔗 [View Certificate](./certificates/AI_agents_certificate.pdf)
 *   **Getting Started with Apache Kafka and Confluent Platform** - Issued by: Google Cloud / Confluent
-    *   🔗 [View Certificate](./certificates/kafka_confluent_gcp.pdf)
-*   **Build Real World AI Applications with Gemini and Imagen** - (Specify Issuer, e.g., Google Cloud/DeepLearning.AI)
-    *   🔗 [View Certificate](./certificates/gemini_imagen_course.pdf)
+    *   🔗 [View Certificate](./certificates/)
+*   **Build Real World AI Applications with Gemini and Imagen** - Issued by: Google Cloud
+    *   🔗 [View Certificate](./certificates/build-real-world-ai-applications-with-gemini-and-im.png)
 
 ---
 
