@@ -91,6 +91,14 @@ Here's a snapshot of my technical skills:
 
 ## 💼 Work Experience
 
+### **Pravya**
+*Founding LLM Engineer Intern* | July 2025 - August 2025
+*   Implemented LLM-powered question generation system.
+*   Developed production-ready microservices architecture with clean, maintainable code following SOLID principles, comprehensive error handling, service failover mechanisms, and extensive documentation, achieving 100% code review approval.
+*   Engineered and deployed high-performance, scalable REST APIs using FastAPI, implementing asynchronous request handling to manage concurrent operations efficiently and ensuring data integrity through robust Pydantic data modeling.
+*   Contributed to the architectural design of our core systems, focusing on creating a scalable and resilient software implementation capable of supporting future growth and maintaining performance under load.
+
+
 ### **Intellectus AI Labs**
 *AI Developer Intern* | March 2025 - May 2025
 *   Designed and implemented multi-agent workflows using CrewAI for task planning, coordination, and execution.
@@ -133,7 +141,7 @@ Here's a snapshot of my technical skills:
 *   **Django - Django WebFramework** - Issued by: Meta
     *   🔗 [View Certificate](./certificates/Coursera_Django.pdf)
 *   **Application Development using Microservices and Serverless** - Issued by: IBM
-    *   🔗 [View Certificate](./certificates/Coursera_Django.pdf)
+    *   🔗 [View Certificate](./certificates/Coursera_7FH4JI0L8QC9_certificate.pdf)
 *   **Getting Started with Apache Kafka and Confluent Platform** - Issued by: Google Cloud / Confluent
     *   🔗 [View Certificate](https://www.cloudskillsboost.google/public_profiles/00d4a90d-f401-48aa-b6be-09af47802498/badges/14815138)
 *   **Build Real World AI Applications with Gemini and Imagen** - Issued by: Google Cloud
