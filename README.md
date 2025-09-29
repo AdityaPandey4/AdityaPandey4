@@ -58,6 +58,8 @@ Here's a snapshot of my technical skills:
 **AI & Deep Learning:**
 <p>
   <img src="https://img.shields.io/badge/AI Agentic Workflow-9F7AEA?style=for-the-badge&logoColor=white" alt="AI Agentic Workflow"/>
+  <img src="https://img.shields.io/badge/LangGraph-228B22?style=for-the-badge&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/CrewAI-FFCCCB?style=for-the-badge&logoColour=white" alt="CrewAI"/>
   <img src="https://img.shields.io/badge/AI Agents-FF69B4?style=for-the-badge&logoColor=white" alt="AI Agents"/>
   <img src="https://img.shields.io/badge/Large Language Models (LLMs)-4285F4?style=for-the-badge&logoColor=white" alt="Large Language Models (LLMs)"/>
   <img src="https://img.shields.io/badge/RAG (Retrieval Augmented Generation)-8A2BE2?style=for-the-badge&logoColor=white" alt="Retrieval Augmented Generation (RAG)"/>
@@ -129,6 +131,8 @@ Here's a snapshot of my technical skills:
 *   **React - Advance React course** - Issued by: Meta
     *   🔗 [View Certificate](./certificates/React_Certificate.pdf)
 *   **Django - Django WebFramework** - Issued by: Meta
+    *   🔗 [View Certificate](./certificates/Coursera_Django.pdf)
+*   **Application Development using Microservices and Serverless** - Issued by: IBM
     *   🔗 [View Certificate](./certificates/Coursera_Django.pdf)
 *   **Getting Started with Apache Kafka and Confluent Platform** - Issued by: Google Cloud / Confluent
     *   🔗 [View Certificate](https://www.cloudskillsboost.google/public_profiles/00d4a90d-f401-48aa-b6be-09af47802498/badges/14815138)
