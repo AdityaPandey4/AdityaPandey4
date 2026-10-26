@@ -43,7 +43,7 @@ Example: ![My Banner](./assets/banner.gif) if you put it in an 'assets' folder.
 
 ## 🚀 About Me
 
-I'm a recent Computer Science graduate passionate about Artificial Intelligence, Machine Learning, and Deep Learning. With three internships specializing in **Generative AI** (Stable Diffusion, GANs, LLMs, RAG), I've honed my skills in building scalable AI solutions and exploring cutting-edge **Agentic AI workflows** and **Multi-Agent Systems** for autonomous problem-solving.
+Software Developer/AI Developer specializing in Generative AI, Voice AI, and Multi-Agent Systems, specializing in **Generative AI** (Stable Diffusion, GANs, LLMs, RAG), I've honed my skills in building scalable AI solutions and exploring cutting-edge **Agentic AI workflows** and **Multi-Agent Systems** for autonomous problem-solving.
 
 I thrive on applying AI to real-world challenges, with impactful projects in AI-driven waste management optimization and crisis management solutions. I'm always eager to learn, innovate, and collaborate on projects that make a difference.
 
@@ -91,12 +91,13 @@ Here's a snapshot of my technical skills:
 
 ## 💼 Work Experience
 
-### **Pravya**
-*Founding LLM Engineer Intern* | July 2025 - August 2025
-*   Implemented LLM-powered question generation system.
-*   Developed production-ready microservices architecture with clean, maintainable code following SOLID principles, comprehensive error handling, service failover mechanisms, and extensive documentation, achieving 100% code review approval.
-*   Engineered and deployed high-performance, scalable REST APIs using FastAPI, implementing asynchronous request handling to manage concurrent operations efficiently and ensuring data integrity through robust Pydantic data modeling.
-*   Contributed to the architectural design of our core systems, focusing on creating a scalable and resilient software implementation capable of supporting future growth and maintaining performance under load.
+### **xAverage**
+*Software Developer* | March 2026 – October 2026
+
+- Built **real-time voice AI agents** and end-to-end **Speech-to-Text (STT) → LLM → Text-to-Speech (TTS)** pipelines for natural, interactive voice conversations.
+- Designed and optimized a **semantic Voice Activity Detection (VAD) pipeline**, reducing detection and interruption-handling latency from **200–300 ms to 83–90 ms**.
+- Fine-tuned open-source **STT, TTS, and LLM models** using open-source datasets to improve performance on voice-based AI tasks.
+- Reduced **Speech-to-Text Word Error Rate (WER) from 73–82% to 29–33%** through model fine-tuning and optimization.
 
 
 ### **Intellectus AI Labs**
